@@ -1,0 +1,7 @@
+	   
+	   
+	   WebDriver driver;
+	   
+	   WebDriverManager.chromedriver().setup();
+		
+		driver = new ChromeDriver();
